@@ -1,15 +1,12 @@
-# 🚀 Welcome to your new awesome project!
+# 🚀 React+Webpack 5 Test Project
 
-This project has been created using **webpack-cli**, you can now run
+To test production build, run
 
 ```
 npm run build
 ```
-
-or
-
+To test development build, run
 ```
-yarn build
+npm run build:dev
 ```
 
-to bundle your application
