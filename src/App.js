@@ -3,8 +3,8 @@ import 'bootstrap/dist/js/bootstrap.bundle.min.js';
 import logo from './logo.svg';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css';
-import { Tooltip } from 'react-tooltip';
-
+//import { Tooltip } from 'react-tooltip';
+import * as Yup from 'yup';
 const App = (props) =>
 {
     return (

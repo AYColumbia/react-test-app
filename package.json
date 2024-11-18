@@ -19,7 +19,8 @@
     "react-hooks": "^1.0.1",
     "react-scripts": "5.0.1",
     "react-tooltip": "^5.28.0",
-    "sass-loader": "^16.0.3"
+    "sass-loader": "^16.0.3",
+    "yup": "^1.4.0"
   },
   "scripts": {
     "start": "webpack serve --node-env production",
